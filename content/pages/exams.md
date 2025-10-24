@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of exams for the course, the mid-term
   exam, and examples of student work for the mid-term and final exams.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
