@@ -131,7 +131,7 @@ Beall, Jo. "Globalization and Social Exclusion in Cities: Framing the Debate wit
 
 Chu, Yin-wah. "Deconstructing the Global City: Unravelling the Linkages that Underlie Hong Kong's World City Status." _Urban Studies_ 45, no. 8 (2008): 1625-1646.
 
-Hessler, Peter. "[The Wonder Years: Boom Times in a Chinese Village](http://www.newyorker.com/reporting/2008/03/31/080331fa_fact_hessler)." _The New Yorker_, March 31, 2008, pp. 68-76.
+Hessler, Peter. "{{% resource_link "a59485be-c6cb-4f04-8344-366552595870" "The Wonder Years: Boom Times in a Chinese Village" %}}." _The New Yorker_, March 31, 2008, pp. 68-76.
 
 Prashad, Vijay. "Singapore: the Lure of the Asian Road." In _The Darker Nations_. New York, NY: The New Press, 2008, pp. 245-259. ISBN: 9781595583420.
 
@@ -207,7 +207,7 @@ Amis, Philip. "Municipal Government, Urban Economic Growth and Poverty Reduction
 
 Beall, Jo. "Urban Livelihoods." In _Towards a New Map of Africa_. Edited by Ben Wisner, Camilla Toulmin, and Rutendo Chitiqa. London, UK: Earthscan Publications, 2005, pp. 97-112. ISBN: 9781844070930.
 
-Davis, Mike. "Planet of Slums: Urban Involution and the Informal Proletariat." _New Left Review_ 26 (2004): 5-36. ([PDF](http://www.foresightfordevelopment.org/sobipro/54/503-planet-of-slums-urban-involution-and-the-informal-proletariat))
+Davis, Mike. "Planet of Slums: Urban Involution and the Informal Proletariat." _New Left Review_ 26 (2004): 5-36. ({{% resource_link "8eede41d-0912-4e8a-9b9a-85572ce5b2a8" "PDF" %}})
 
 Simone, AbdouMaliq. "Pirate Towns: Reworking Social and Symbolic Infrastructures in Johannesburg and Douala." _Urban Studies_ 43, no. 2 (2006): 357-370.
 
@@ -263,7 +263,7 @@ Bollens, Scott A. "Urban Planning and Peacebuilding." _Progress in Planning_ 66,
 
 Esser, Daniel E. "The City as Arena, Hub and Prey - Patterns of Violence in Kabul and Karachi." _Environment and Urbanization_ 16, no. 2 (2004): 31-38.
 
-Rodgers, Dennis. "[Slum Wars of the 21st Century: the New Geography of Conflict in Central America](https://core.ac.uk/download/pdf/96042.pdf)." CSRC Working Papers 2, no. 10. London, UK: Crisis States Research Centre, 2007.
+Rodgers, Dennis. "{{% resource_link "ca47de3a-3135-4444-b53a-12dbebb7e287" "Slum Wars of the 21st Century: the New Geography of Conflict in Central America" %}}." CSRC Working Papers 2, no. 10. London, UK: Crisis States Research Centre, 2007.
 
 
 {{< tdclose >}}
